@@ -1,0 +1,9 @@
+1ct	Rum
+1ct	Sparkling_Water
+1ct	Margarita
+2ct	Martini
+11ct	Bar_97
+
+
+Total due:  151.00 USD
+At	10:39EDT
